@@ -16,5 +16,13 @@ Modern Web Development-2014-10-27
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 
 
+## Object-oriented JS ##
+
+- [TypeScript](http://www.typescriptlang.org/)
+
+
+
+
+
 
 
