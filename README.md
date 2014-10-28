@@ -28,8 +28,9 @@ Modern Web Development-2014-10-27
 
 - [AngularJS](https://angularjs.org/)
 - [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en-US)
+- [W3C Markup Validation Service](http://validator.w3.org/check)
 
 
+## AngularJS Directives ##
 
-
-
+- [The RAW Stack](http://rawstack.azurewebsites.net/)

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>AngularJS Directives</title>
+
+    <link rel="stylesheet" href="/bootstrap-3.2.0-dist/css/bootstrap.min.css">
+
+</head>
+
+<body ng-app="demoApp">
+    <h1>AngularJS Directives</h1>
+
+    <div ng-controller="demoCtrl">
+
+        Name: <input type="text" ng-model="person.name" dm-set-focus="true"/>
+
+        <button dm-click="">Click me</button>
+
+        <br/>
+
+        <div my-template="" >
+            <div dm-set-focus="true">
+                The original content
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="angular-1.3.0/angular.js"></script>
+    <script src="demo.js"></script>
+</body>
+</html>
