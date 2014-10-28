@@ -24,5 +24,12 @@ Modern Web Development-2014-10-27
 
 
 
+## AngularJS Introduction ##
+
+- [AngularJS](https://angularjs.org/)
+- [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en-US)
+
+
+
 
 
