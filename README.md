@@ -34,3 +34,16 @@ Modern Web Development-2014-10-27
 ## AngularJS Directives ##
 
 - [The RAW Stack](http://rawstack.azurewebsites.net/)
+
+
+## WebAPI ##
+
+- [Fiddler](http://www.telerik.com/fiddler)
+- [Hypertext Transfer Protocol -- HTTP/1.1](http://www.ietf.org/rfc/rfc2616.txt)
+- [Architectural Styles and
+the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
+### Continuous Integration Servers 
+- [TeamCity](https://www.jetbrains.com/teamcity/)
+- [AppVeyor](http://www.appveyor.com/)
+
