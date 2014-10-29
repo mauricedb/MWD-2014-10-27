@@ -1,0 +1,11 @@
+<ul>
+    <li ng-repeat="book in books">
+        <!--<a href="#/edit/{{book.id}}">-->
+        <!--<span ng-bind="book.title"></span>-->
+        <!--</a>-->
+
+        <span ng-bind="book.title"
+                ng-click="editBook(book)"></span>
+
+    </li>
+</ul>
