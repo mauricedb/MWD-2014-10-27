@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>CORS</title>
+</head>
+<body>
+    <h1>Cors</h1>   
+    
+    <button id="btn">Hello</button>
+    <pre id="result"></pre>
+
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script>
+        $(function() {
+
+            $('#btn').click(function() {
+                $.getJSON('http://localhost:60112/api/hello').then(function (result) {
+                    $('#result').text(result);
+                }, function(err) {
+                    $('#result').text(JSON.stringify( err));
+                });
+            });
+        })
+    </script>
+</body>
+</html>
