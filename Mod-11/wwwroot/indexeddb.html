@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>IndexedDB</title>
+</head>
+<body ng-app="localApp">
+<h1>IndexedDB</h1>
+
+<div ng-controller="booksCtrl">
+    Title: <input type="text" ng-model="book.title"/>
+    <br/>
+    Author: <input type="text" ng-model="book.author"/>
+    <br/>
+    <button ng-click="add()">Add</button>
+
+    <hr/>
+
+    <button ng-click="display()">Display</button>
+    <ul>
+        <li ng-repeat="book in books">
+            {{book.title}} by {{book.author}}
+        </li>
+    </ul>
+</div>
+
+<script src="angular-1.3.0/angular.js"></script>
+<script src="indexeddb.js"></script>
+</body>
+</html>

@@ -48,8 +48,15 @@ the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fiel
 - [AppVeyor](http://www.appveyor.com/)
 
 
-## HTML5_Networking ##
+## HTML5 Networking ##
 
 - [Microsoft.Owin.Cors](https://www.nuget.org/packages/Microsoft.Owin.Cors/)
 - [Microsoft ASP.NET SignalR](https://www.nuget.org/packages/Microsoft.AspNet.SignalR/)
 - [SOCKET.IO](http://socket.io/)
+
+
+## HTML5 Storage ##
+
+- [Can I use?](http://caniuse.com/)
+
+
