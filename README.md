@@ -60,3 +60,7 @@ the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fiel
 - [Can I use?](http://caniuse.com/)
 
 
+## HTML5 Offline and Background ##
+
+- [jquery-nodom](https://github.com/kpozin/jquery-nodom)
+
