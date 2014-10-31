@@ -64,3 +64,14 @@ the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fiel
 
 - [jquery-nodom](https://github.com/kpozin/jquery-nodom)
 
+
+## LESS ##
+
+- [Web Essentials](http://vswebessentials.com/)
+
+
+## Bootstrap ##
+
+- [Bootstrap](http://getbootstrap.com/)
+- [BootsWatch](http://bootswatch.com/)
+- [WrapBootstrap](https://wrapbootstrap.com/)
