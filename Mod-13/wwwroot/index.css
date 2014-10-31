@@ -1,0 +1,25 @@
+
+.demo {
+    position: absolute;
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    top:100px;
+    left:100px;
+
+
+    border-radius: 12px 6px 0 0;
+
+    box-shadow: 6px 6px 30px red;
+    
+    background: linear-gradient(green, blue, yellowgreen);
+
+    transition: all 5s;
+}
+
+.demo:hover{
+    /*transform: scale(1.2);*/
+    transform: rotate(720deg) scale(2) translate(100px,200px);
+
+    transition: all 1s;
+}
