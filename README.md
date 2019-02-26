@@ -1,6 +1,8 @@
 Modern Web Development-2014-10-27
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mauricedb/MWD-2014-10-27.svg)](https://greenkeeper.io/)
+
 
 
 ## 01 JavaScript Refresher ##
